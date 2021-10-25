@@ -1,0 +1,6 @@
+.home_wrapper {
+  min-height: calc(100vh - 60px);
+  min-width: calc(100vw - 160px);
+  background-color: #aeabab;
+  padding: 30px 80px;
+}

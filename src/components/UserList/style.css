@@ -1,0 +1,16 @@
+.user-list_wrapper {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}
+
+.user-list_wrapper a {
+  color: #131313;
+  font-size: 18px;
+  text-decoration: none;
+   width: 100%;
+  transition: all 0.5s;
+  cursor: pointer;
+
+}

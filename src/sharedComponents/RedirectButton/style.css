@@ -1,0 +1,24 @@
+.redirect_button {
+  border: none;
+  outline: none;
+  background-color: #1010d9;
+  border-radius: 10px;
+  opacity: 0.85;
+  transition: all 0.6s;
+  min-width: 150px;
+  height: auto;
+  min-height: 45px;
+}
+
+.redirect_button:hover {
+  opacity: 1;
+}
+
+.redirect_button a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 16px;
+  color: white;
+  padding: 15px 30px;
+}

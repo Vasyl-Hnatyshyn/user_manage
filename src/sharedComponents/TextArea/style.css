@@ -1,0 +1,14 @@
+.text_area {
+  min-width: 300px;
+  padding: 10px 15px;
+  resize: none;
+  outline: none;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  margin: 6px 0 10px 5px;
+}
+
+.text_area:focus {
+  border: 2px solid #3b5fea;
+  outline: none;
+}

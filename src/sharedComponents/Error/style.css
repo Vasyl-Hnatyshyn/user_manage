@@ -1,0 +1,11 @@
+.feedback {
+  font-weight: 800;
+  font-size: 12px;
+  color: red;
+  margin-top: -9px;
+}
+
+.feedback::before {
+  content: '*';
+  color: red;
+}

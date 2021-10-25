@@ -1,0 +1,5 @@
+.btn_panel-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 25px;
+}
